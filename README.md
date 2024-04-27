@@ -9,20 +9,10 @@
 
 ###
 
-<p align="center">Entusiasta de Business Inteligence, dados e tech. ❤︎ Graduanda em Sistemas da Informação, pela USP.</p>
-
-###
-
 <img align="right" height="163" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXkyYTl0bTBxbm8zeTJwZ2RzZGlmbnFjM2N2ejI4azhycXN2eDhqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWJ7cKyiWPCnVyuAhT/giphy.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
+<p align="center">Entusiasta de Business Inteligence, dados e tech. ❤︎ Graduanda em Sistemas da Informação, pela USP.</p>
 
 ###
