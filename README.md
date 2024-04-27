@@ -1,35 +1,30 @@
-<h1 align="center">Ei! 🌚 Eu sou a Lua.</h1>
+<h2 align="center">Ei, eu sou a Lua.</h2>
 
-<h3 align="center">Estudante da graduação em Sistemas de Informação pela USP</h3>
+###
 
-<div style="border-radius: 10px; overflow: hidden; display: inline-block;">
-  <img align="right" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Descrição da Imagem" width="200" height="200">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thelua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thelua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<div  style="display: flex; align-items: flex-start;">
-  <h3>💗 TECH e DATA LOVER </h3>
-  <h3>🌠 Estagiária em Análise e Engenharia de Dados @ Ilegra </h3>
+###
+
+<p align="center">Entusiasta de Business Inteligence, dados e tech. ❤︎ Graduanda em Sistemas da Informação, pela USP.</p>
+
+###
+
+<img align="right" height="163" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXkyYTl0bTBxbm8zeTJwZ2RzZGlmbnFjM2N2ejI4azhycXN2eDhqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWJ7cKyiWPCnVyuAhT/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
 </div>
 
-<h3 align="left">Atualmente me aventurando em: </h3>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+###
 
-<h3 align="left">Linkedin:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lua-maia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luamaia" height="30" width="40" /></a>
-</p>
+<br clear="both">
 
-<!--
-**thelua/thelua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/thelua/thelua/output/snake.svg" alt="Snake animation" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
