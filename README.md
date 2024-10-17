@@ -12,6 +12,6 @@
 
 ###
 
-<p align="center">Entusiasta de Business Inteligence, dados e tech. ❤︎ Graduanda em Sistemas da Informação, pela USP.</p>
+<p align="center">Entusiasta dados, tech e marketing. ❤︎ Graduanda em Sistemas da Informação, pela USP.</p>
 
 ###
